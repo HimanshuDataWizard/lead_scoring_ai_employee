@@ -1,0 +1,501 @@
+lead_code,company_size,industry,region,prev_purchases,response_time,last_contact,source,deal_value,converted
+0c72ef65,889,Pharma,Mumbai,1,12,4,Website,12412,1
+6d020593,78,Pharma,Chennai,3,37,25,Website,4090,1
+0daa1650,158,Pharma,Chennai,1,10,13,Email,13207,1
+5f46866d,671,E-commerce,Delhi,3,26,22,Email,37042,0
+25389e3a,140,Retail,Bangalore,1,7,26,Referral,37634,0
+3834752b,782,Pharma,Delhi,0,17,2,Email,34433,1
+6e1aa4c4,165,E-commerce,Chennai,3,30,19,Cold Call,27082,0
+b207d0de,713,E-commerce,Delhi,0,38,2,Referral,29408,1
+5d431415,393,E-commerce,Chennai,0,30,29,Website,21704,1
+15fa9b07,467,Pharma,Mumbai,0,13,29,Website,49567,1
+b83cedb9,829,Logistics,Mumbai,4,13,28,Referral,26986,0
+e5b4416a,449,Pharma,Mumbai,4,47,4,Cold Call,24306,1
+18368bea,748,Pharma,Delhi,2,32,9,Cold Call,16758,0
+5a214962,894,Pharma,Chennai,2,19,1,Cold Call,8642,1
+a07153b6,459,Pharma,Mumbai,3,9,27,Email,45400,0
+343d0877,558,Pharma,Delhi,2,6,16,Cold Call,46020,0
+7363df79,95,E-commerce,Delhi,1,1,7,Cold Call,24373,1
+e7754abb,721,Retail,Bangalore,1,39,3,Website,9555,1
+008fc5d0,346,Pharma,Chennai,1,20,9,Email,22515,1
+c09dc149,307,Pharma,Bangalore,0,47,12,Cold Call,18209,0
+1154d968,452,Logistics,Chennai,2,38,16,Referral,19234,0
+f85a66b3,231,Retail,Bangalore,4,35,27,Referral,17811,0
+e057f0ef,668,Retail,Mumbai,2,25,6,Referral,38534,0
+0a961512,45,Retail,Mumbai,3,37,12,Email,42013,0
+d8a96231,405,Pharma,Bangalore,2,43,5,Referral,27415,0
+9f8a15c2,942,Logistics,Bangalore,4,24,10,Cold Call,27179,1
+5235d77c,176,Logistics,Chennai,4,47,17,Website,27569,1
+590e3415,613,Pharma,Bangalore,4,43,21,Referral,23489,0
+b713b01f,327,E-commerce,Delhi,4,26,13,Cold Call,20547,0
+3a951d70,776,Pharma,Mumbai,3,39,28,Cold Call,5308,1
+921e9a39,374,Logistics,Bangalore,4,45,8,Cold Call,11236,1
+3c124146,419,E-commerce,Delhi,0,19,24,Referral,30451,0
+6b7f6581,434,Logistics,Mumbai,4,14,10,Website,11531,0
+a4da37d6,896,Logistics,Bangalore,0,21,16,Cold Call,16705,1
+c795ad76,42,E-commerce,Chennai,0,47,13,Referral,36545,0
+db75072e,599,E-commerce,Bangalore,4,18,17,Website,33795,1
+ed591a1f,797,Pharma,Chennai,3,47,12,Website,27452,1
+0a62c445,53,Pharma,Delhi,2,33,5,Website,34075,0
+2dc3cb75,296,Logistics,Mumbai,0,25,11,Email,25279,1
+d6e432d6,791,Retail,Delhi,1,23,2,Website,46187,1
+ddc8e0ea,170,Logistics,Chennai,2,35,13,Email,40628,0
+03a5bac8,596,E-commerce,Delhi,2,17,26,Email,13649,0
+88f896fc,580,Pharma,Mumbai,0,23,20,Website,42943,1
+f1d01dc4,581,Logistics,Mumbai,2,38,17,Cold Call,17417,0
+ec55f2e1,193,Retail,Chennai,1,27,12,Cold Call,10944,1
+dac96101,919,Logistics,Delhi,1,7,19,Email,49214,0
+37c38230,245,Retail,Bangalore,4,24,6,Referral,44898,0
+feff9728,218,Pharma,Delhi,4,2,3,Cold Call,5035,0
+5c935baa,681,Retail,Delhi,0,16,23,Cold Call,34661,0
+01ae6f1e,366,Retail,Delhi,2,26,14,Website,8125,0
+1236221c,675,E-commerce,Chennai,3,15,9,Website,48085,0
+1f660518,766,Logistics,Delhi,4,17,11,Website,45158,0
+e01c1c8b,199,Logistics,Chennai,1,1,25,Email,5041,1
+011290b5,556,Logistics,Delhi,1,30,26,Email,3602,0
+eceeb3ab,382,Pharma,Mumbai,1,10,14,Cold Call,37467,0
+6bce3630,187,Retail,Delhi,1,5,2,Referral,44196,0
+47cd2aab,456,Pharma,Bangalore,3,1,0,Referral,41866,0
+a14b1c28,313,E-commerce,Mumbai,3,11,20,Cold Call,30975,0
+f6295a1b,506,Logistics,Chennai,1,26,28,Referral,29333,1
+003b6fa9,544,Logistics,Bangalore,1,6,7,Cold Call,19457,1
+69ffb0fe,848,E-commerce,Mumbai,1,32,20,Referral,34169,0
+dcafcc12,557,E-commerce,Mumbai,1,46,26,Referral,13989,1
+7d4762d5,235,Logistics,Mumbai,1,22,5,Email,10041,0
+bd0f3cc2,279,Logistics,Delhi,1,17,17,Cold Call,36165,0
+f24cef9c,547,E-commerce,Bangalore,2,17,26,Referral,43827,1
+b4010dad,100,Retail,Delhi,4,10,18,Referral,45836,1
+5a5b041e,44,Pharma,Delhi,2,3,10,Email,16635,0
+8500eb5e,242,Retail,Chennai,1,26,5,Cold Call,25323,0
+b619c6a0,561,Retail,Bangalore,4,44,27,Email,30069,0
+2943a1d4,245,Logistics,Mumbai,0,31,11,Referral,28972,1
+b7c42a64,691,Logistics,Delhi,3,2,4,Referral,44357,1
+0a4239d2,838,Pharma,Mumbai,0,40,15,Cold Call,5841,1
+fc92e3b2,246,Logistics,Mumbai,2,47,15,Referral,27897,0
+946c8097,520,E-commerce,Delhi,4,25,14,Email,24311,1
+1e2e8db9,548,E-commerce,Mumbai,2,25,26,Email,9153,1
+3ce9118f,899,Pharma,Delhi,2,42,1,Cold Call,17067,1
+76119d71,759,E-commerce,Delhi,4,19,27,Cold Call,42346,0
+234489d9,45,E-commerce,Chennai,1,7,5,Cold Call,24466,1
+99fb2330,293,Retail,Mumbai,2,30,17,Cold Call,21294,1
+62a44596,923,E-commerce,Delhi,4,47,0,Website,42152,0
+fc72bb6a,364,Retail,Mumbai,4,45,9,Referral,20853,0
+6742f365,317,Retail,Delhi,4,4,27,Cold Call,12837,0
+4b376318,510,Retail,Delhi,1,17,24,Cold Call,9454,0
+39ef7848,653,E-commerce,Delhi,2,45,1,Referral,24750,1
+62bbb75f,635,Pharma,Mumbai,4,24,5,Referral,20290,0
+7ba2321c,262,Logistics,Bangalore,0,26,2,Website,31701,0
+d042ac3e,720,Pharma,Bangalore,0,16,11,Cold Call,47089,0
+7234ca29,907,Retail,Bangalore,0,8,22,Referral,45036,1
+276d62c3,945,Pharma,Mumbai,3,38,2,Referral,38475,1
+da1886fc,547,Pharma,Mumbai,4,41,6,Website,12164,0
+1b26734e,607,Retail,Bangalore,1,31,16,Referral,3032,0
+97bb6561,491,Pharma,Delhi,0,36,27,Email,31093,0
+13a6dc7a,633,E-commerce,Delhi,2,16,26,Referral,47386,0
+b8e5f46e,501,Logistics,Chennai,0,28,3,Email,12963,0
+e73605f9,799,Logistics,Chennai,2,35,15,Email,47595,0
+c1b6aba7,410,Pharma,Chennai,1,24,13,Website,21406,1
+ca15a524,914,Pharma,Delhi,3,29,21,Referral,13847,1
+85941b03,957,Logistics,Mumbai,0,22,12,Cold Call,6678,0
+15e4addc,625,Retail,Chennai,0,36,21,Email,46800,1
+38c96ce0,428,Retail,Chennai,0,35,29,Email,4402,1
+4d3f83fa,183,Logistics,Chennai,2,32,25,Cold Call,4834,0
+a2c82446,911,E-commerce,Bangalore,1,47,8,Cold Call,3423,1
+10268724,757,Pharma,Delhi,4,39,17,Website,32593,1
+eb0c5f5d,485,Logistics,Delhi,4,2,0,Email,46510,1
+cd86480e,63,Pharma,Bangalore,4,43,22,Website,15827,1
+c60d5bcd,690,Retail,Mumbai,1,27,13,Email,48330,0
+5868a8b9,963,Pharma,Delhi,2,2,27,Website,2071,1
+6971281e,569,Pharma,Mumbai,3,27,27,Website,32192,0
+e2e0108b,716,Retail,Chennai,1,44,22,Cold Call,37282,1
+0642eb96,275,Pharma,Mumbai,0,24,9,Referral,19389,0
+9cc2e7ac,306,Pharma,Bangalore,1,33,18,Website,38145,0
+8e498346,634,E-commerce,Mumbai,2,18,20,Cold Call,32322,1
+06953b53,247,Logistics,Mumbai,1,33,20,Referral,12163,1
+8bd14995,724,E-commerce,Bangalore,0,2,2,Referral,3502,0
+748a3e8d,751,E-commerce,Delhi,2,16,21,Website,35282,1
+bbbc5e73,756,E-commerce,Bangalore,3,21,27,Email,14856,0
+50dad607,972,E-commerce,Chennai,1,21,4,Cold Call,33484,1
+988cb705,404,E-commerce,Mumbai,2,23,29,Email,17036,0
+dde384d2,163,Retail,Mumbai,1,23,28,Website,47617,1
+7251914d,973,Retail,Delhi,2,6,4,Cold Call,40933,1
+2a24a29f,481,Logistics,Bangalore,2,31,24,Website,21625,1
+3b2ee789,424,E-commerce,Mumbai,0,1,12,Referral,13494,0
+be599d37,936,E-commerce,Bangalore,2,35,9,Referral,24116,1
+b5bd7351,718,E-commerce,Chennai,3,18,2,Referral,7928,0
+f36964c4,762,Pharma,Chennai,3,15,18,Referral,26345,0
+ccc9b660,726,E-commerce,Bangalore,2,47,11,Website,36533,0
+439af47f,714,E-commerce,Delhi,0,33,9,Website,45229,1
+caebe4b8,203,Pharma,Chennai,4,29,18,Cold Call,29141,0
+c09ad6c8,564,E-commerce,Bangalore,4,39,3,Referral,22701,1
+984eaa66,657,Pharma,Chennai,0,42,1,Website,21696,0
+1c07792f,238,Pharma,Chennai,1,35,15,Email,49822,0
+11935aa0,887,Logistics,Delhi,3,10,21,Cold Call,10601,1
+b02bd55e,253,Pharma,Mumbai,3,12,27,Referral,36490,1
+b49e9197,446,Logistics,Bangalore,0,17,10,Email,49973,0
+28e06a15,891,Logistics,Mumbai,2,32,12,Referral,40120,0
+1e791c91,313,E-commerce,Delhi,2,25,25,Referral,19664,1
+7fe7ddb6,696,Logistics,Bangalore,3,41,23,Referral,34514,0
+6c8f424a,966,E-commerce,Mumbai,3,29,17,Referral,9501,1
+340301f0,324,E-commerce,Bangalore,1,41,19,Cold Call,33454,1
+5533a614,328,Logistics,Mumbai,3,34,20,Website,31499,0
+427cd00b,345,E-commerce,Chennai,0,5,26,Referral,24314,0
+261d64f0,84,Pharma,Bangalore,0,12,17,Referral,37163,0
+91235871,582,Retail,Mumbai,1,10,24,Website,3128,1
+d283692d,469,Retail,Delhi,4,37,10,Email,18932,0
+54d98f78,650,E-commerce,Delhi,4,39,8,Email,7444,1
+0f7ba2fe,402,Retail,Mumbai,4,4,2,Referral,22670,1
+e99e121f,101,Retail,Chennai,1,25,23,Referral,32243,1
+e4d03463,958,Pharma,Chennai,2,22,4,Referral,47104,1
+7c4bf636,205,Logistics,Chennai,0,13,0,Email,31129,0
+78bf9b4a,863,Pharma,Bangalore,0,43,16,Referral,27568,1
+25dbc917,208,Retail,Mumbai,1,35,8,Website,16508,1
+ce85d9d3,221,Pharma,Bangalore,3,26,1,Cold Call,19385,0
+d36c8c55,229,Retail,Chennai,3,4,27,Cold Call,23747,1
+e81af8ff,226,Retail,Delhi,1,45,20,Referral,47259,0
+fcff231f,92,E-commerce,Mumbai,4,17,17,Cold Call,17578,0
+21635317,110,Retail,Chennai,3,45,25,Email,13735,0
+197520d8,72,Logistics,Mumbai,2,30,8,Website,34857,1
+9e0b88eb,941,Retail,Bangalore,2,25,19,Cold Call,3609,0
+d8dbcd6e,841,Retail,Delhi,1,34,18,Referral,40446,0
+465bd633,656,Pharma,Mumbai,0,26,24,Referral,32208,1
+551d50f9,107,Pharma,Delhi,0,13,3,Cold Call,31908,0
+cad3161d,934,Logistics,Mumbai,2,7,24,Website,34079,1
+756cb171,444,Logistics,Bangalore,1,1,18,Website,26943,1
+612fcda7,47,Logistics,Bangalore,1,26,3,Website,9080,0
+b3ee988d,121,E-commerce,Bangalore,1,11,27,Website,29119,0
+f351d5cb,718,Logistics,Bangalore,3,16,16,Email,26344,1
+0b9f676e,305,Pharma,Bangalore,1,33,0,Cold Call,45326,0
+a6a0760c,547,Pharma,Chennai,4,11,21,Referral,25649,1
+ae0f8f4a,857,Retail,Delhi,4,27,12,Email,36014,0
+0cf59060,253,Logistics,Mumbai,0,36,9,Cold Call,12282,1
+7c31fb6b,810,Retail,Delhi,1,2,25,Cold Call,17870,1
+51bf80c7,456,E-commerce,Chennai,3,45,6,Email,28223,1
+7851945b,202,Retail,Mumbai,2,14,2,Referral,15276,0
+58f8cc12,703,E-commerce,Mumbai,0,5,10,Website,36692,0
+85e8cb3b,911,E-commerce,Delhi,1,3,9,Referral,24934,0
+0096e4a7,445,Logistics,Delhi,4,9,5,Cold Call,3134,1
+c9c1244d,170,Pharma,Bangalore,2,1,12,Website,47640,0
+cda37557,490,Pharma,Chennai,4,3,7,Cold Call,48407,1
+96bbc82f,783,Logistics,Bangalore,2,39,2,Email,26337,0
+71f02a18,62,Pharma,Mumbai,1,5,26,Cold Call,4590,0
+6a87e5e7,20,E-commerce,Bangalore,3,36,22,Website,44832,0
+8ba991f7,296,Retail,Delhi,3,21,6,Cold Call,34560,1
+4374019a,946,E-commerce,Delhi,3,40,21,Cold Call,21334,1
+f83d3423,790,Pharma,Delhi,2,14,5,Email,47019,0
+f58bed00,52,E-commerce,Bangalore,3,8,6,Website,43598,0
+99c208a7,658,E-commerce,Chennai,0,32,18,Email,48946,0
+b212a1d2,916,Retail,Bangalore,1,25,3,Email,31672,0
+5c592f4b,333,E-commerce,Bangalore,4,29,18,Cold Call,47759,0
+cf8b4f95,302,Retail,Chennai,2,34,25,Email,14220,0
+0c199f27,295,E-commerce,Bangalore,2,1,10,Email,30005,0
+1767d35c,51,Retail,Delhi,4,47,1,Website,38021,0
+2017b79d,65,E-commerce,Mumbai,4,4,17,Referral,11708,0
+73fa2ff2,277,E-commerce,Chennai,0,3,16,Email,16283,1
+af3576a1,155,Pharma,Delhi,4,14,18,Website,4965,1
+255ee001,146,Logistics,Mumbai,4,42,1,Email,33010,1
+75646da4,794,E-commerce,Bangalore,3,12,12,Cold Call,34935,0
+de2bf673,107,E-commerce,Mumbai,3,27,21,Website,16572,0
+43aea320,86,Retail,Bangalore,2,12,0,Website,45818,0
+82ebbbd3,712,Retail,Chennai,0,46,17,Email,31683,1
+e675d5db,886,E-commerce,Chennai,3,10,16,Referral,34559,0
+2dce4866,808,E-commerce,Bangalore,1,7,4,Email,22408,0
+5ea0ee4d,556,Pharma,Bangalore,3,43,19,Email,45626,0
+75c3ae94,864,Logistics,Chennai,0,16,14,Email,13317,0
+4c379e82,618,Pharma,Mumbai,2,15,8,Email,22968,1
+4a747f6d,521,Retail,Delhi,0,28,19,Cold Call,29149,1
+c6ee7254,366,Pharma,Bangalore,1,19,27,Cold Call,11241,0
+2e5ecdb4,690,Retail,Bangalore,1,47,24,Website,35977,0
+0b865234,690,E-commerce,Mumbai,4,15,0,Email,17588,1
+5f3f55af,746,Pharma,Chennai,2,15,15,Website,48498,0
+bea09832,428,Pharma,Delhi,0,31,2,Referral,2675,0
+79a29730,521,Logistics,Delhi,0,47,10,Cold Call,43902,1
+e37edf62,586,E-commerce,Mumbai,1,23,2,Email,49447,0
+b9f6902e,583,Logistics,Delhi,3,28,2,Website,43336,0
+789c3ef8,849,E-commerce,Chennai,0,10,14,Email,40193,0
+7c745ff3,459,Retail,Mumbai,4,46,27,Cold Call,12585,0
+3c3da368,822,Retail,Chennai,1,32,17,Website,10243,1
+eb453937,116,E-commerce,Delhi,4,30,19,Cold Call,37565,0
+2e86e539,54,E-commerce,Bangalore,2,31,11,Email,3526,1
+09e75fa3,642,Logistics,Mumbai,1,11,24,Cold Call,11194,1
+b59de0fa,259,Pharma,Bangalore,0,37,0,Website,3789,1
+ccc03f56,765,Retail,Delhi,0,16,5,Email,6988,0
+c4daa2b2,419,Logistics,Mumbai,4,13,0,Cold Call,10033,1
+c24b3253,795,Pharma,Bangalore,4,13,24,Email,30434,0
+8701b66e,849,E-commerce,Mumbai,0,29,3,Referral,49061,0
+5cb057d3,157,Logistics,Bangalore,4,29,25,Cold Call,48837,0
+6a24511b,421,E-commerce,Bangalore,1,16,19,Website,18721,1
+ce2028f2,812,Retail,Chennai,4,26,5,Cold Call,6538,1
+79aac835,945,E-commerce,Delhi,2,24,8,Email,43463,0
+551cccb5,615,Logistics,Bangalore,2,4,5,Referral,20838,1
+06f6ba3a,763,Pharma,Bangalore,4,47,16,Referral,33310,1
+3c93f7db,847,E-commerce,Bangalore,4,22,13,Website,42029,1
+c856b07c,93,Retail,Mumbai,0,21,13,Email,37759,1
+5c1eac44,712,Logistics,Bangalore,1,15,21,Cold Call,10161,1
+c38e1490,458,Pharma,Bangalore,3,25,25,Cold Call,17543,0
+ba2ce406,70,Pharma,Chennai,2,30,17,Email,28024,0
+0b42ac41,902,Pharma,Mumbai,2,1,5,Website,19942,1
+5eb51fac,115,E-commerce,Chennai,3,13,19,Website,20927,0
+1ddac800,860,Logistics,Chennai,1,8,22,Referral,38100,0
+5986c0e4,191,Logistics,Mumbai,0,3,16,Email,28828,1
+f0df6c0c,116,Logistics,Delhi,4,20,28,Cold Call,32155,0
+dd75e0b8,714,Pharma,Mumbai,2,41,29,Email,46196,0
+78021bb4,542,Pharma,Delhi,2,19,11,Referral,20347,0
+3fd05e4b,229,Logistics,Delhi,0,12,25,Email,5592,1
+dfa3cb52,415,Pharma,Delhi,2,10,29,Email,8712,1
+b41a6e02,206,Logistics,Bangalore,2,1,16,Email,9174,1
+07638d56,569,Retail,Mumbai,2,26,21,Referral,39965,0
+eb39dfc0,888,Logistics,Mumbai,1,32,16,Email,2933,0
+d15805ef,137,Retail,Mumbai,0,10,15,Website,17902,0
+feedbec7,663,Logistics,Bangalore,3,17,13,Website,37168,0
+31c9dabd,39,Retail,Bangalore,1,19,15,Cold Call,30846,0
+3be2e606,330,E-commerce,Mumbai,2,27,24,Referral,28905,0
+04777ff2,638,E-commerce,Chennai,1,31,15,Referral,48340,0
+ef4aa2bd,739,Retail,Mumbai,3,40,0,Referral,39892,0
+a21890ed,439,Retail,Delhi,1,41,22,Website,44615,0
+518bb11f,549,E-commerce,Mumbai,0,24,24,Website,25417,0
+73648eca,572,Retail,Mumbai,0,18,9,Referral,8057,0
+4691594b,848,E-commerce,Mumbai,4,19,12,Cold Call,36593,0
+8ba8861e,780,Pharma,Delhi,2,42,8,Website,5960,0
+a88b2e93,287,E-commerce,Chennai,2,29,24,Email,33342,1
+3d0b5e30,76,Logistics,Mumbai,3,43,16,Cold Call,23456,0
+573085de,48,Retail,Mumbai,2,36,29,Email,29170,1
+9b956344,881,Retail,Chennai,3,20,11,Cold Call,38854,0
+d91e416c,903,Logistics,Bangalore,3,43,16,Email,37250,0
+c0141351,606,E-commerce,Delhi,4,23,19,Website,2942,0
+bddeeb20,504,E-commerce,Bangalore,0,1,1,Email,39810,0
+8876cec0,435,Pharma,Chennai,4,9,28,Email,11658,1
+9afd0618,98,Retail,Bangalore,3,19,21,Email,39289,0
+95ac4a8d,77,Retail,Bangalore,3,42,24,Cold Call,44832,0
+fcc767f4,799,Logistics,Delhi,4,33,0,Cold Call,40926,0
+97fb5a8f,990,Logistics,Chennai,4,10,18,Email,6666,0
+1b96d6f2,760,Pharma,Bangalore,1,32,5,Referral,18828,0
+f87727e1,894,E-commerce,Chennai,1,25,29,Email,46713,0
+a2d4b97c,817,E-commerce,Mumbai,3,7,25,Website,5635,0
+72b11de0,568,Retail,Delhi,4,19,29,Email,46317,1
+898f4270,136,Pharma,Mumbai,4,10,28,Cold Call,14760,0
+6a6bb4d4,487,Pharma,Bangalore,2,5,3,Referral,13255,0
+7caffb34,201,Logistics,Bangalore,0,45,5,Cold Call,46048,1
+51fbd8e6,803,E-commerce,Chennai,0,28,20,Cold Call,25356,0
+1d184f97,855,Retail,Chennai,2,27,0,Email,30489,0
+6ed40518,924,Logistics,Chennai,4,34,7,Cold Call,15587,0
+763c212f,60,Pharma,Chennai,0,41,17,Website,2786,0
+fb35fc6a,150,E-commerce,Delhi,2,22,9,Email,15356,0
+0e78d8af,694,E-commerce,Bangalore,4,26,11,Cold Call,13328,0
+652aa0d4,990,Logistics,Chennai,3,20,4,Cold Call,16772,1
+1ae38372,205,Pharma,Delhi,3,43,7,Referral,8728,0
+c67c95af,875,Retail,Mumbai,3,17,25,Referral,5472,0
+9a625a53,877,Retail,Mumbai,1,8,16,Referral,15981,0
+babf76e2,461,Retail,Delhi,4,25,20,Cold Call,2253,0
+7d98f1fd,398,Pharma,Mumbai,2,38,0,Email,25074,0
+73ab67ce,239,E-commerce,Delhi,1,36,12,Website,12855,1
+22ca986f,350,Retail,Bangalore,2,47,11,Referral,28876,0
+c388ab20,319,E-commerce,Delhi,0,9,11,Referral,21882,0
+c538259c,459,E-commerce,Delhi,2,22,26,Cold Call,47656,0
+f1585ae4,190,E-commerce,Delhi,0,24,22,Email,24269,0
+1883e285,268,E-commerce,Bangalore,4,44,25,Email,45611,0
+a26a2515,595,E-commerce,Bangalore,4,28,0,Cold Call,33841,1
+f5d62529,553,Pharma,Delhi,0,21,17,Email,31857,0
+7a95becd,908,Logistics,Mumbai,1,35,20,Website,12860,0
+b4f02d3f,496,Logistics,Chennai,3,24,17,Referral,21126,1
+dffba4bb,837,E-commerce,Mumbai,4,41,29,Email,3961,1
+c30536ab,96,E-commerce,Mumbai,0,3,9,Website,4263,0
+8c091fd8,552,Retail,Mumbai,1,41,21,Cold Call,46830,1
+5cc75941,258,E-commerce,Chennai,0,28,10,Referral,46059,0
+6e323bd9,466,Pharma,Delhi,3,41,4,Website,49993,0
+c2537e92,289,E-commerce,Chennai,2,37,2,Referral,36732,0
+c308a290,414,Logistics,Bangalore,4,20,26,Referral,41881,0
+f9441f91,803,Pharma,Delhi,3,9,11,Referral,28286,1
+62d9d92a,33,Pharma,Delhi,4,20,25,Cold Call,25078,0
+20ed1346,974,Retail,Delhi,2,32,6,Cold Call,41378,0
+02db43f6,185,E-commerce,Bangalore,3,14,21,Website,31202,0
+5bc4f187,185,Pharma,Bangalore,1,43,25,Website,44683,0
+676513b8,458,E-commerce,Mumbai,4,28,11,Referral,36280,1
+10c80a67,492,E-commerce,Chennai,2,30,12,Referral,39221,0
+d6f6a752,659,Pharma,Bangalore,4,45,16,Cold Call,31334,0
+4c4103f9,838,E-commerce,Chennai,1,2,23,Referral,19832,0
+4ca98b79,366,E-commerce,Chennai,2,7,29,Website,20807,0
+8d674854,319,E-commerce,Mumbai,2,4,14,Referral,38612,1
+cee1ba88,776,Logistics,Delhi,1,15,8,Cold Call,46622,0
+7de59d2c,146,E-commerce,Chennai,1,23,4,Cold Call,41582,0
+33c21aab,645,E-commerce,Bangalore,2,13,7,Cold Call,45102,0
+54d27338,422,E-commerce,Delhi,1,15,25,Email,2129,1
+e07d1b22,253,Retail,Chennai,1,33,2,Website,20532,0
+e34fb63d,716,E-commerce,Bangalore,3,47,26,Website,35851,1
+14ac9620,558,Retail,Delhi,4,43,5,Website,42446,0
+34753724,695,E-commerce,Chennai,1,9,28,Email,21322,0
+32cdf1fe,978,Pharma,Mumbai,4,8,14,Website,33781,1
+a9eeb78c,825,Pharma,Chennai,1,31,24,Cold Call,3666,1
+1bc1a7a0,621,Logistics,Chennai,0,21,4,Website,34651,0
+6d9a270f,881,Pharma,Chennai,1,15,27,Cold Call,31295,1
+e22fda53,26,Pharma,Chennai,3,16,26,Referral,38360,1
+59a93ce5,306,Pharma,Chennai,2,7,1,Cold Call,37875,0
+6855cc02,521,Retail,Mumbai,4,46,20,Cold Call,21742,0
+2a0aa087,478,Logistics,Chennai,0,9,23,Referral,20296,1
+4c3c9304,718,Pharma,Bangalore,2,21,7,Cold Call,34097,0
+13ac1051,284,E-commerce,Bangalore,4,38,0,Website,10243,0
+a7c6407a,795,Logistics,Chennai,1,7,29,Website,39825,1
+8b10e438,991,Pharma,Mumbai,3,3,25,Email,8611,1
+27e6c54f,816,Pharma,Bangalore,3,34,4,Website,30808,0
+e531cf0e,986,Pharma,Chennai,2,32,29,Cold Call,21986,1
+2df3dc41,333,Pharma,Mumbai,3,43,9,Website,23615,1
+174a0ed2,654,Pharma,Chennai,3,39,15,Cold Call,4107,1
+07f4344a,346,Retail,Chennai,2,42,10,Cold Call,37085,1
+7215d27b,692,Logistics,Mumbai,2,3,17,Email,40317,1
+bd907b7d,286,Retail,Delhi,2,18,18,Cold Call,27718,0
+ba082608,337,Retail,Chennai,3,5,0,Email,30206,0
+5ce04647,954,Logistics,Delhi,2,10,4,Referral,2737,0
+32a1e0ff,36,Pharma,Mumbai,2,47,14,Website,16756,0
+beddff77,571,Logistics,Mumbai,0,41,28,Cold Call,33579,1
+88067301,789,Logistics,Chennai,0,24,4,Website,3872,0
+96321370,441,E-commerce,Delhi,3,12,7,Referral,47249,0
+79efdc26,675,Logistics,Bangalore,1,44,17,Website,37157,0
+f65d9250,884,Retail,Bangalore,0,6,29,Email,5561,1
+c5495c0a,552,Retail,Mumbai,3,28,10,Email,26292,0
+3a64328e,458,Retail,Chennai,4,4,28,Referral,10181,0
+3611c437,492,E-commerce,Mumbai,0,6,0,Referral,42471,0
+7fe08a54,481,Logistics,Delhi,2,7,29,Website,41395,1
+1fcfe163,969,Logistics,Bangalore,2,14,8,Referral,14197,1
+00e382bd,880,Pharma,Delhi,4,8,24,Cold Call,6529,0
+2dc25cdb,488,Retail,Chennai,4,13,6,Cold Call,4594,1
+43fca66f,451,Logistics,Delhi,3,35,20,Referral,40107,0
+7724c723,427,E-commerce,Mumbai,4,19,20,Cold Call,43318,0
+f1dc59ca,231,Logistics,Bangalore,4,17,22,Email,6476,0
+f8990c26,888,Logistics,Bangalore,2,17,19,Email,47576,0
+b1959c37,88,Retail,Chennai,3,47,12,Referral,32020,0
+60db9b24,120,E-commerce,Chennai,0,7,12,Email,28152,1
+80b42a64,886,Logistics,Chennai,2,8,0,Cold Call,6979,0
+5c4f3a94,769,Logistics,Bangalore,4,2,29,Referral,26361,1
+3880552a,474,E-commerce,Mumbai,2,42,14,Email,4590,1
+a1feef0e,15,Pharma,Bangalore,1,11,21,Email,47039,1
+058b28dc,475,Logistics,Mumbai,3,28,28,Cold Call,5911,1
+17edbc84,274,E-commerce,Mumbai,3,3,1,Referral,19526,0
+82571074,499,Pharma,Mumbai,2,14,24,Website,6912,1
+cfdc6bf7,128,Logistics,Mumbai,0,35,1,Referral,44111,0
+e189eb66,681,Logistics,Chennai,0,36,29,Email,20297,1
+3fe5794a,137,Pharma,Chennai,3,10,9,Cold Call,19871,0
+8d438232,754,Logistics,Delhi,2,39,22,Email,7191,0
+3406da81,352,Logistics,Chennai,3,41,27,Website,46566,1
+334f6d85,656,Pharma,Chennai,1,13,8,Referral,31986,0
+7ad34113,75,Retail,Delhi,4,9,10,Website,28008,1
+643cc8c0,763,Retail,Delhi,2,23,13,Cold Call,28060,0
+39b6c305,344,E-commerce,Mumbai,4,17,9,Email,16391,0
+72ed863d,157,Logistics,Chennai,0,33,14,Email,14863,1
+f735cef8,159,Logistics,Delhi,1,41,14,Referral,12122,1
+6a2d8c59,544,Logistics,Bangalore,0,24,22,Cold Call,36827,1
+59130290,838,Pharma,Mumbai,0,30,21,Referral,9883,0
+df39640b,759,Retail,Bangalore,1,47,26,Email,21126,1
+d8ac419a,973,Logistics,Mumbai,4,43,17,Website,42364,1
+a6de412b,184,Pharma,Chennai,4,6,11,Referral,14396,1
+7c71b292,620,Pharma,Chennai,1,19,22,Referral,31511,1
+990552a7,498,Retail,Bangalore,4,46,3,Cold Call,23802,0
+9394de04,21,Logistics,Delhi,4,45,14,Website,37822,1
+8ce89176,750,Pharma,Delhi,2,26,20,Cold Call,7574,1
+b6d271e8,278,E-commerce,Delhi,0,45,22,Cold Call,33427,0
+823362d1,653,E-commerce,Delhi,4,42,10,Email,49069,1
+bd68593f,915,Logistics,Mumbai,1,5,10,Cold Call,6000,1
+1ab50d3b,687,Pharma,Bangalore,2,11,11,Website,28533,0
+ebd989e2,613,E-commerce,Delhi,2,38,29,Website,12611,1
+801ed759,706,Pharma,Bangalore,0,15,24,Referral,42791,0
+685a0dcd,470,E-commerce,Delhi,2,36,11,Cold Call,4148,1
+d85cabf3,958,Retail,Chennai,2,11,24,Website,15640,1
+85844a37,71,Retail,Delhi,4,9,21,Website,31370,1
+bb969a30,365,E-commerce,Delhi,2,19,23,Cold Call,41384,0
+b3f2051e,12,Logistics,Chennai,2,43,10,Email,25838,0
+1a64f9b5,357,E-commerce,Mumbai,0,17,5,Referral,18212,1
+df356b46,957,Retail,Mumbai,3,14,4,Website,2690,1
+9ef4e8fd,68,E-commerce,Delhi,3,38,14,Referral,22832,1
+18e17620,431,Pharma,Bangalore,2,12,0,Referral,12099,0
+c29b7d04,975,Logistics,Chennai,0,1,18,Cold Call,7365,0
+b4c7aaa7,953,E-commerce,Delhi,0,6,28,Referral,34688,0
+108150f3,756,E-commerce,Delhi,2,18,9,Referral,35738,1
+830b1dd5,745,Pharma,Bangalore,2,43,10,Referral,26696,0
+bc31a462,748,E-commerce,Chennai,2,6,2,Referral,28342,0
+6704eb74,118,Retail,Delhi,3,45,19,Referral,24647,0
+42e21d09,43,E-commerce,Delhi,3,17,25,Email,46594,0
+f521ab6a,829,E-commerce,Bangalore,1,16,4,Website,29076,0
+423d97ae,629,Retail,Mumbai,1,47,9,Email,20180,0
+5d55b4b9,106,E-commerce,Bangalore,1,7,1,Referral,40754,1
+18dbbb74,619,Logistics,Delhi,3,28,27,Referral,41194,1
+e8063d97,368,E-commerce,Chennai,2,45,24,Referral,2456,1
+f76878a3,765,Logistics,Chennai,0,2,1,Cold Call,40445,1
+8a5bebe6,327,Logistics,Mumbai,3,24,26,Referral,7423,1
+44208f4b,181,Pharma,Bangalore,3,5,7,Cold Call,25251,0
+50f80d72,706,Logistics,Bangalore,4,20,0,Website,15462,0
+ddbee4b4,687,E-commerce,Chennai,0,4,6,Cold Call,17717,0
+82e6bf8a,55,Pharma,Delhi,3,26,22,Referral,44573,1
+9366c804,334,E-commerce,Mumbai,3,32,4,Email,37358,1
+703ca2d7,246,Pharma,Delhi,1,33,20,Referral,26561,0
+bc6a2f84,382,Logistics,Bangalore,0,1,0,Cold Call,35898,1
+c1b26f8b,946,E-commerce,Chennai,3,1,19,Website,6493,1
+67cd9611,364,E-commerce,Mumbai,0,29,18,Referral,30080,0
+e1a6bd38,829,Logistics,Bangalore,1,20,26,Website,44299,0
+9678f37b,386,Pharma,Chennai,1,17,25,Referral,44445,0
+0ae7fbed,764,E-commerce,Bangalore,1,39,5,Email,45117,0
+397998b3,592,Logistics,Delhi,0,32,8,Email,12971,1
+6e83f19b,995,E-commerce,Bangalore,1,40,2,Referral,36693,0
+043ef16b,20,Retail,Bangalore,4,42,23,Website,23406,0
+607f47e8,294,E-commerce,Chennai,2,7,20,Email,17811,0
+c1efd4fb,120,E-commerce,Bangalore,1,13,20,Cold Call,33200,0
+16139621,257,E-commerce,Delhi,0,13,29,Website,36742,0
+7bff5678,74,E-commerce,Delhi,2,45,19,Email,32445,0
+245a3d0a,26,Pharma,Delhi,3,13,23,Cold Call,41808,0
+1a8f4dcf,698,Pharma,Chennai,0,15,21,Cold Call,24882,0
+7d7bb72b,624,Retail,Delhi,4,45,9,Website,34564,1
+934eb891,485,Logistics,Delhi,2,7,6,Email,46793,1
+ee33c14e,645,E-commerce,Delhi,1,26,17,Website,6278,0
+df51e2ed,486,Pharma,Delhi,1,12,15,Cold Call,42416,1
+168c3c00,173,Pharma,Chennai,3,32,1,Email,20192,0
+345fcc21,491,Pharma,Delhi,1,21,16,Website,19928,1
+8f927b7a,78,E-commerce,Chennai,0,37,23,Referral,24960,1
+ae8a2c88,472,E-commerce,Mumbai,0,27,28,Referral,22896,1
+1aec6485,201,Pharma,Bangalore,2,8,7,Email,27375,1
+a441f4d6,760,Logistics,Bangalore,1,5,6,Email,44522,0
+ad07a749,275,Logistics,Bangalore,2,25,9,Email,26299,0
+d67660ec,23,Logistics,Chennai,0,8,7,Email,47101,1
+8ae016e9,830,Retail,Chennai,0,13,6,Cold Call,38029,1
+67416e75,413,E-commerce,Bangalore,1,31,8,Website,47755,1
+4a2c4056,663,E-commerce,Bangalore,3,42,16,Referral,10942,0
+a849dcea,977,Logistics,Mumbai,1,9,17,Website,33108,0
+5a1d7b6e,273,Retail,Bangalore,2,22,4,Email,6059,0
+d3b07b6b,85,Logistics,Bangalore,3,9,28,Email,42442,0
+e83eb7de,321,Logistics,Bangalore,1,18,21,Website,46497,1
+51dd588e,293,Retail,Chennai,0,1,25,Email,28262,0
+d2767ec6,902,Retail,Mumbai,3,13,7,Email,41321,0
+9f17c396,994,Pharma,Chennai,2,34,11,Cold Call,24264,1
+d7fcf2eb,20,Retail,Mumbai,0,30,20,Referral,29119,1
+b21a757d,938,Pharma,Mumbai,2,15,22,Cold Call,45712,0
+da527b48,815,Pharma,Chennai,1,36,2,Cold Call,38000,0
+94acc65d,796,Retail,Chennai,2,15,0,Email,35913,1
+0f4c9d67,733,Logistics,Delhi,1,44,20,Cold Call,38025,0
+4245eb0f,61,Retail,Delhi,2,10,6,Cold Call,20129,1
+242a1430,900,Logistics,Mumbai,2,42,14,Email,45832,0
+248949a3,470,Logistics,Delhi,1,46,3,Cold Call,37828,1
+0c0cf303,667,E-commerce,Mumbai,3,8,8,Email,49585,0
+83c3499f,904,E-commerce,Mumbai,3,31,10,Cold Call,25603,0
+34ade810,805,Logistics,Chennai,3,5,6,Cold Call,4930,0
+08e614ea,610,E-commerce,Chennai,3,40,15,Website,47607,0
+daf4ee29,618,Pharma,Chennai,4,18,25,Website,5640,0
+9fee8c01,486,Logistics,Mumbai,0,6,27,Cold Call,33122,1
+15347892,23,Pharma,Delhi,0,24,22,Website,26184,1
+05a74ffa,194,Logistics,Delhi,4,28,8,Referral,3454,1
+289852d2,300,Logistics,Mumbai,3,38,27,Website,33134,0
+27a07e85,369,Retail,Mumbai,1,44,12,Cold Call,17844,1
+b32fad09,54,Retail,Delhi,3,34,28,Website,31932,0
+910490a0,608,Logistics,Chennai,4,17,29,Referral,28311,1
+e22756ce,235,E-commerce,Bangalore,3,7,20,Email,44058,0
+0534d3ee,760,Retail,Chennai,1,35,8,Website,33481,0
+557d6cf7,317,Pharma,Mumbai,2,2,3,Email,49856,0
+cc95446d,689,Retail,Bangalore,4,4,18,Email,21451,0
+c51e6539,72,Pharma,Mumbai,0,23,1,Email,13168,1
+68a1dc89,137,E-commerce,Mumbai,4,20,28,Cold Call,32843,0
+c97536d8,73,Retail,Bangalore,2,9,18,Email,40119,0
+6f020cb0,943,Logistics,Chennai,1,11,14,Referral,10228,1
+3908e122,151,Retail,Mumbai,2,3,7,Cold Call,25343,1
+cd2873f1,14,Logistics,Delhi,2,23,1,Cold Call,20357,0
+6a2b9cf3,332,Pharma,Mumbai,4,36,25,Website,2768,1
+e9f4d045,256,Pharma,Chennai,0,14,22,Referral,43129,1
+d0932a52,444,Retail,Chennai,1,10,4,Website,3327,0
+01e9faa8,619,Retail,Chennai,1,4,5,Cold Call,27167,1
+800a938a,922,E-commerce,Mumbai,1,25,14,Referral,19708,1
+cec09565,718,E-commerce,Delhi,4,23,2,Website,29620,1
