@@ -177,6 +177,10 @@ Streamlit dashboard allows:
 Comparison file:
 - `artifacts/model_comparison.md`
 
+Important:
+- Section 7 numbers are for **model selection stage** (cross-validation + validation split).
+- These are used to choose model/calibration before final holdout testing.
+
 Current table summary:
 - Extra Trees: CV ROC-AUC `0.6377`, Validation ROC-AUC `0.5546`, Brier `0.2530`
 - Logistic Regression: CV ROC-AUC `0.6157`, Validation ROC-AUC `0.5353`, Brier `0.2543`
@@ -197,6 +201,10 @@ From `artifacts/metrics.json`:
 - Recall: `0.9286`
 - Accuracy: `0.44`
 - Decision threshold: `0.36`
+
+Important:
+- Section 8 numbers are from the **final test set** (holdout evaluation after model selection).
+- So values in Section 8 can differ from Section 7, and this is expected.
 
 Important interpretation:
 - This setup is recall-heavy (find more true converters)
