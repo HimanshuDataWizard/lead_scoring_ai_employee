@@ -86,7 +86,6 @@ lead-scoring-ai/
 │   └── model_comparison.md
 ├── assets/screenshots/
 │   ├── executive_demo.png
-│   ├── growth_inbound.png
 │   ├── cold_prospect.png
 │   └── large_slow_account.png
 ├── requirements.txt
@@ -134,7 +133,7 @@ streamlit run dashboard/app.py
 ![Executive Demo](assets/screenshots/executive_demo.png)
 
 ### Growth Inbound
-![Growth Inbound](assets/screenshots/growth_inbound.png)
+Screenshot omitted due capture artifact in this environment.
 
 ### Cold Prospect
 ![Cold Prospect](assets/screenshots/cold_prospect.png)
