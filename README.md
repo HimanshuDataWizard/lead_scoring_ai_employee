@@ -63,17 +63,17 @@ Language:
 - Python
 
 Data and ML:
-- Pandas
-- Scikit-learn
-- Joblib
+- Pandas (`2.0.3`)
+- Scikit-learn (`1.3.2`)
+- Joblib (`1.3.2`)
 
 Backend:
-- FastAPI
-- Pydantic
-- Uvicorn
+- FastAPI (`0.110.3`)
+- Pydantic (`2.10.6`)
+- Uvicorn (`0.30.6`)
 
 Frontend:
-- Streamlit
+- Streamlit (`1.33.0`)
 
 Key dependency files:
 - `requirements.txt`
@@ -279,16 +279,7 @@ Screenshot omitted due capture artifact in this environment.
 
 ---
 
-## 12. Interview-friendly summary
-If asked in interview, you can say:
-- I built a full lead scoring ML system with training, model comparison, calibration, threshold tuning, API, and dashboard.
-- I did not use one model blindly; I compared multiple models using ROC-AUC and calibration quality.
-- I used threshold tuning because business decisions should match sales objective, not default 0.5 cutoff.
-- Current model is moderate in ROC-AUC but strong in recall-focused decisioning.
-
----
-
-## 13. Limitations and next improvements
+## 12. Limitations and next improvements
 Current limitations:
 - small dataset size
 - moderate ROC-AUC
@@ -302,7 +293,7 @@ Next improvements:
 
 ---
 
-## 14. Repository structure
+## 13. Repository structure
 ```text
 lead-scoring-ai/
 ├── api/
@@ -333,3 +324,8 @@ lead-scoring-ai/
 ├── setup.py
 └── README.md
 ```
+
+---
+
+## 14. License
+This project is licensed under the MIT License.
